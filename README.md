@@ -22,7 +22,7 @@ A smart contract can use this protocol to obtain off-chain data automatically.
 
 ### Reference
 
-"ethereum.org" 
+"https://ethereum.org/en/developers/docs/oracles/" 
 
 
 
